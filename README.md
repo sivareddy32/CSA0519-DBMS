@@ -27,3 +27,6 @@
 [exp 6 queries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%206)
 ![image](https://user-images.githubusercontent.com/113407411/191306860-eb8b022a-735c-4a60-8379-268096e9653e.png)
 ![image](https://user-images.githubusercontent.com/113407411/191306951-9527f60d-e439-4102-8c30-39059d037d52.png)
+## exp 7
+[exp 7 queries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%207)
+![image](https://user-images.githubusercontent.com/113407411/191306380-f00189a0-b56f-4fd7-b84f-1e6fa1ea88a8.png)
