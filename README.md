@@ -23,3 +23,7 @@
 ![image](https://user-images.githubusercontent.com/113407411/191408349-cb20dfd8-194b-4742-b0c0-e6b82dc4656f.png)
 ![image](https://user-images.githubusercontent.com/113407411/191408363-16998c83-5c58-4a6c-b79f-fadabbb76527.png)
 ![image](https://user-images.githubusercontent.com/113407411/191408378-69a2fda1-da13-4ea3-9361-030ac7c132fe.png)
+## exp 6
+[exp 6 queries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%206)
+![image](https://user-images.githubusercontent.com/113407411/191306860-eb8b022a-735c-4a60-8379-268096e9653e.png)
+![image](https://user-images.githubusercontent.com/113407411/191306951-9527f60d-e439-4102-8c30-39059d037d52.png)
