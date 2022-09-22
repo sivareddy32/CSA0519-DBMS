@@ -30,3 +30,9 @@
 ## exp 7
 [exp 7 queries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%207)
 ![image](https://user-images.githubusercontent.com/113407411/191306380-f00189a0-b56f-4fd7-b84f-1e6fa1ea88a8.png)
+
+
+
+## exp 9
+[exp 9 queries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%209)
+https://user-images.githubusercontent.com/113226389/191555805-136b9f79-5af5-4657-b4c5-b01d12bd48d3.png
