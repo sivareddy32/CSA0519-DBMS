@@ -35,4 +35,5 @@
 
 ## exp 9
 [exp 9 queries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%209)
-https://user-images.githubusercontent.com/113226389/191555805-136b9f79-5af5-4657-b4c5-b01d12bd48d3.png
+![image](https://user-images.githubusercontent.com/113224080/191657993-e144f7b9-663e-4ca7-8b69-a1b07a61cdaa.png)
+
