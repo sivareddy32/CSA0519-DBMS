@@ -55,6 +55,8 @@
 ## exp 15
 [exp 15 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%2015)
 ![image](https://user-images.githubusercontent.com/113224080/191663349-56a0431a-5394-4b33-8c63-a3d46f36a49b.png)
+## exp 16
+[exp 16 quiries]()
 
 
 
