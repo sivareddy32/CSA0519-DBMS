@@ -41,6 +41,10 @@
 ## exp 10
 [exp 10 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%2010)
 ![image](https://user-images.githubusercontent.com/113224080/191660296-9154a3f0-7f24-4850-b356-b8172f8f8b75.png)
+## exp 11
+[exp 11 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp11)
+![image](https://user-images.githubusercontent.com/113224080/191661687-c206cfc1-61ee-4031-ad68-dc8737d392c9.png)
+![image](https://user-images.githubusercontent.com/113224080/191661799-843c2c7a-6127-4b49-a991-b1dd6e461c69.png)
 
 
 
