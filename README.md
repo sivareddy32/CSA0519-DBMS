@@ -68,12 +68,6 @@
 ## exp 18
 [exp 18 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%2018)
 ![image](https://user-images.githubusercontent.com/113224080/191810345-be78b065-8ba1-49e7-b065-b593dc448156.png)
-## exp 19
-[exp 19 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%2019)
-![image](https://user-images.githubusercontent.com/113224080/191810720-b95ff309-7845-4909-87f9-7939b628c018.png)
-## exp 20
-[exp 20 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%2020)
-![image](https://user-images.githubusercontent.com/113224080/191811045-1c8efcbe-da84-49e5-81df-c123e2394bac.png)
 ## exp 21
 [exp 21 quiries](https://github.com/sivareddy32/CSA0519-DBMS/blob/main/exp%2021)
 ![image](https://user-images.githubusercontent.com/113224080/191813832-32918ba3-16fd-4592-841e-6fc743cc2ad0.png)
